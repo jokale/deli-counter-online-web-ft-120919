@@ -4,7 +4,7 @@ def line
   katz_deli = []
   if line.length == 0 
     puts  "The line is currently empty."
-  elsif line.length > 0 
+  else line.length > 0 
   puts katz_deli
 else 
   puts 
