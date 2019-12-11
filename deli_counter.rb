@@ -11,4 +11,4 @@ def line
     puts message.rstrip
   end
 end
-end 
+
