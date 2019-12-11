@@ -13,5 +13,6 @@ def line(array)
 end
 
 def take_a_number(katz_deli, name)
+  line_array << 
   puts "Welcome #{name}. You are number #{line_array.size} in line."
 end 
